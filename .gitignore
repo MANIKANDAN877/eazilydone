@@ -1,0 +1,13 @@
+.vscode/
+_temp_iob_update.py
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+node_modules/
+dist/
+build/
+.pytest_cache/
+.venv/
+venv/
